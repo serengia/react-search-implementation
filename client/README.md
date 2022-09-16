@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# Running the local server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The simple backend API project was set up with Express
 
 ## Available Scripts
 
-In the project directory, you can run:
+CD into client directory, you can run:
+
+### `npm start`
+
+# Getting Started with Client App
+
+The front-end project was bootstrapped with Create React App
+
+## Available Scripts
+
+CD into client directory, you can run:
 
 ### `npm start`
 
