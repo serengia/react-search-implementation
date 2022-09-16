@@ -1,0 +1,6 @@
+# Backend
+api/node_modules/
+
+# Frontend
+client/node_modules/
+
